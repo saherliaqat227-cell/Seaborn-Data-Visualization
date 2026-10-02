@@ -69,4 +69,4 @@ Seaborn-Data-Visualization/
 
 **Saher Liaqat**
 
-GitHub: `saherliaqat227-cell`
+GitHub: [saherliaqat227-cell](https://github.com/saherliaqat227-cell)
